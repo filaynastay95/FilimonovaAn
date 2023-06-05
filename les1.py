@@ -38,12 +38,12 @@ result1 = float(zminna1) - float(zminna2) - float(zminna3)
 result2= int(result1 *100)/100
 print ('Остаток вільних коштів складає :',result2,'грн.')"""
 
-"""zminna1 = input('Введить Ваш дохід за поточний місяц: ')
+zminna1 = input('Введить Ваш дохід за поточний місяц: ')
 zminna2 = input('Введить суму регулярного платежу за кредтом: ')
 zminna3 = input('Введить поточну заборгованість за комунальні послуги: ')
 result1 = float(zminna1) - float(zminna2) - float(zminna3)
 result2= int(result1 *100)/100
-print ('Залишок вільних коштів складає :',result2,'грн.')"""
+print ('Залишок вільних коштів складає :',result2,'грн.')
 
 
 
